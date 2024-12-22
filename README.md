@@ -101,8 +101,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@your-username](https://github.com/AlishaHaleem)
-- LinkedIn: [Your Name](https://linkedin.com/in/AlishaHaleem)
+- GitHub: [@AlishaHaleem](https://github.com/AlishaHaleem)
+- LinkedIn: [AlishaHaleem](https://linkedin.com/in/AlishaHaleem)
 
 ## 🙏 Acknowledgments
 
